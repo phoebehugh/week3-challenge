@@ -1,11 +1,12 @@
 require Sinatra/Base
 
-class Test < Sinatra::Base
+# class Test < Sinatra::Base
 
-  GAME = Game.new
+#   GAME = Game.new
 
-  enable :sessions
+#   enable :sessions
 
-  get '/' do
-    @name = 
-  end
+#   get '/' do
+#     @name = 
+#   end
+# end
